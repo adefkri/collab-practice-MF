@@ -1,0 +1,18 @@
+.container{
+    display:grid;
+    height: 100vh
+    
+
+
+}
+nav{ background-color: aqua;
+}
+#leftcolumn{background-color: green;
+
+}
+#rightcolumn{background-color: yellow
+
+}
+footer{
+    background-color: orange;
+}
